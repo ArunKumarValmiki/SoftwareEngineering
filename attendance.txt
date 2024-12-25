@@ -1,5 +1,0 @@
-1342: Present
-0178: Present
-1457: Present
-1643: Absent
-2000: Absent
